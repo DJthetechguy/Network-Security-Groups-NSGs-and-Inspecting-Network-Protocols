@@ -1,4 +1,4 @@
-# Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
+
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
