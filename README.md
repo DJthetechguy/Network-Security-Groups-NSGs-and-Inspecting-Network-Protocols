@@ -27,8 +27,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Step 1: Provision Azure Virtual Machines: Deploy Windows and Linux VMs in the same Virtual Network and subnet.
-- Step 2: Configure Network Security Groups: Set up NSGs to manage inbound and outbound traffic.
-- Step 3: Capture Network Traffic with Wireshark: Installed and used Wireshark to analyze network traffic between VMs.
+- Step 2: Capture Network Traffic with Wireshark: Installed and used Wireshark to analyze network traffic between VMs.
+- Step 3: Configure Network Security Groups: Set up NSGs to manage inbound and outbound traffic.
 - Step 4: Adjust NSG Rules and Analyze Results: Modified NSG rules and observed changes using Wireshark.
 
 <h2>Actions and Observations</h2>
