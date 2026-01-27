@@ -54,10 +54,11 @@ Demonstrated above is a remote desktop session into the Windows VM. Wireshark is
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1920" height="968" alt="image" src="https://github.com/user-attachments/assets/fef7e38a-f7c0-4cea-9b71-146f306186dd" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Azure portal displays the Network Security Group (NSG) configuration page for the Ubuntu VM. The Inbound security rules tab is open, highlighting a newly added rule that denies ICMP traffic. The rule’s settings show “ICMP” as the protocol and “Deny” as the action, effectively blocking incoming ping requests to the Ubuntu VM. This demonstrates how NSG rules can be used to restrict specific types of network traffic.
 </p>
 <br />
 
@@ -65,6 +66,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Azure portal displays the Network Security Group (NSG) configuration page for the Ubuntu VM. The Inbound security rules tab is open, highlighting a newly added rule that denies ICMP traffic. The rule’s settings show “ICMP” as the protocol and “Deny” as the action, effectively blocking incoming ping requests to the Ubuntu VM. This demonstrates how NSG rules can be used to restrict specific types of network traffic.
 </p>
 <br />
