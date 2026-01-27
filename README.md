@@ -34,10 +34,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/19b1cf7a-45dc-412a-92fc-3db7f1e01bdb" />
+<img <img width="1918" height="973" alt="image" src="https://github.com/user-attachments/assets/62a88e88-8af1-430b-abf2-f8388cf85b47" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Azure portal resource group overview page displaying both Windows and Linux virtual machines (VMs) listed as resources. The details panel shows both VMs assigned to the same virtual network and subnet, confirming successful deployment and network configuration.
 </p>
 <br />
 
