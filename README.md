@@ -49,7 +49,7 @@ Azure portal resource group overview page displaying both Windows and Linux virt
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Azure portal shows a remote desktop session into the Windows VM. Wireshark is open and actively capturing ICMP packets. Windows PowerShell is visible, running the ping command to the Linux VM’s private IP address. Captured packets in Wireshark correspond to the ongoing ping traffic between the Windows and Linux virtual machines, demonstrating successful network communication and packet inspection.
 </p>
 <br />
 
