@@ -63,9 +63,11 @@ The Azure portal displays the Network Security Group (NSG) configuration page fo
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/d76a7f86-afcc-48b2-939f-fe1dbeb28ff6" />
+
 </p>
 <p>
-The Azure portal displays the Network Security Group (NSG) configuration page for the Ubuntu VM. The Inbound security rules tab is open, highlighting a newly added rule that denies ICMP traffic. The rule’s settings show “ICMP” as the protocol and “Deny” as the action, effectively blocking incoming ping requests to the Ubuntu VM. This demonstrates how NSG rules can be used to restrict specific types of network traffic.
+Wireshark displays a series of ICMP echo requests without corresponding replies, while Windows PowerShell shows repeated “Request timed out” messages after the NSG rule denying ICMP traffic is applied. This confirms that the firewall rule successfully blocks ping responses from the Linux VM, visually demonstrating the effect of NSG rule changes on network connectivity.
+
 </p>
 <br />
